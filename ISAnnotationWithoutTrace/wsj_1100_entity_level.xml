@@ -1,0 +1,19 @@
+<?xml version='1.0'?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.comp.leeds.ac.uk/markert/entity">
+<markable id="markable_0" information_status="new" new_type="noset" mention="yes" span="word_1..word_3" mmax_level="entity" />
+<markable id="markable_1" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_5" mmax_level="entity" />
+<markable id="markable_2" information_status="new" new_type="noset" mention="yes" span="word_8..word_11" mmax_level="entity" />
+<markable id="markable_3" information_status="mediated" mention="yes" bridge_type="event" bridged_from="markable_15" second_bridge_type="nonapp" mediated_type="bridging" span="word_13" mmax_level="entity" />
+<markable id="markable_4" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_18..word_27" mmax_level="entity" />
+<markable id="markable_5" information_status="new" new_type="noset" mention="yes" span="word_24..word_26" mmax_level="entity" />
+<markable id="markable_7" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_26" mmax_level="entity" />
+<markable id="markable_8" information_status="new" new_type="noset" mention="yes" span="word_29..word_30" mmax_level="entity" />
+<markable id="markable_9" information_status="new" new_type="noset" mention="yes" span="word_29..word_32" mmax_level="entity" />
+<markable id="markable_10" information_status="new" new_type="noset" mention="yes" span="word_29..word_39" mmax_level="entity" />
+<markable id="markable_11" information_status="new" new_type="noset" mention="yes" span="word_32" mmax_level="entity" />
+<markable id="markable_12" information_status="new" new_type="noset" mention="yes" span="word_35..word_39" mmax_level="entity" />
+<markable id="markable_13" information_status="new" new_type="noset" mention="yes" span="word_35" mmax_level="entity" />
+<markable id="markable_14" information_status="new" new_type="noset" mention="yes" span="word_37..word_39" mmax_level="entity" />
+<markable id="markable_15" information_status="unknown" mention="no" span="word_7" mmax_level="entity" />
+</markables>

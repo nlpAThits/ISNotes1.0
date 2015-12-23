@@ -1,0 +1,309 @@
+<?xml version='1.0'?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.comp.leeds.ac.uk/markert/entity">
+<markable id="markable_0" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_2..word_3" mmax_level="entity" />
+<markable id="markable_1" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_2..word_11" mmax_level="entity" />
+<markable id="markable_2" information_status="new" new_type="noset" mention="yes" span="word_7" mmax_level="entity" />
+<markable id="markable_3" information_status="mediated" additional_bridging_type="nonapp" comparative_type="withintext" annotator_comments="comparative, other than socialism" mention="yes" comp_from="markable_2" mediated_type="comparative" span="word_9..word_11" mmax_level="entity" />
+<markable id="markable_4" information_status="new" new_type="noset" mention="yes" span="word_13..word_14" mmax_level="entity" />
+<markable id="markable_5" information_status="new" new_type="noset" mention="yes" span="word_17..word_35" mmax_level="entity" />
+<markable id="markable_6" information_status="new" new_type="noset" mention="yes" span="word_21..word_35" mmax_level="entity" />
+<markable id="markable_7" information_status="mediated" annotator_comments="the economy of poland" mention="yes" bridge_type="other" bridged_from="markable_0" second_bridge_type="nonapp" mediated_type="bridging" span="word_25..word_26" mmax_level="entity" />
+<markable id="markable_8" information_status="new" new_type="noset" mention="yes" span="word_29..word_30" mmax_level="entity" />
+<markable id="markable_9" information_status="new" new_type="noset" mention="yes" span="word_34..word_35" mmax_level="entity" />
+<markable id="markable_10" information_status="new" new_type="noset" mention="yes" span="word_37..word_38" mmax_level="entity" />
+<markable id="markable_11" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_42..word_43" mmax_level="entity" />
+<markable id="markable_12" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_42..word_53" mmax_level="entity" />
+<markable id="markable_13" information_status="old" old_type="general_or_generic" mention="yes" span="word_50" mmax_level="entity" />
+<markable id="markable_14" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_52..word_53" mmax_level="entity" />
+<markable id="markable_15" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_55..word_62" mmax_level="entity" />
+<markable id="markable_16" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_60..word_61" mmax_level="entity" />
+<markable id="markable_17" information_status="mediated" annotator_comments="the environment ministry of poland" mention="yes" bridge_type="other" bridged_from="markable_11" second_bridge_type="nonapp" mediated_type="bridging" span="word_66..word_68" mmax_level="entity" />
+<markable id="markable_18" information_status="mediated" mention="yes" mediated_type="aggregate" span="word_66..word_79" mmax_level="entity" />
+<markable id="markable_19" information_status="new" new_type="noset" mention="yes" span="word_70..word_73" mmax_level="entity" />
+<markable id="markable_21" information_status="new" new_type="noset" mention="yes" span="word_76..word_79" mmax_level="entity" />
+<markable id="markable_22" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_85..word_90" mmax_level="entity" />
+<markable id="markable_23" information_status="mediated" mention="yes" mediated_type="aggregate" span="word_85..word_103" mmax_level="entity" />
+<markable id="markable_24" information_status="new" new_type="noset" annotator_comments="unclear" mention="yes" span="word_88..word_90" mmax_level="entity" />
+<markable id="markable_25" information_status="mediated" mention="yes" mediated_type="aggregate" span="word_95..word_103" mmax_level="entity" />
+<markable id="markable_26" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_105..word_106" mmax_level="entity" />
+<markable id="markable_27" information_status="new" new_type="noset" mention="yes" span="word_109..word_138" mmax_level="entity" />
+<markable id="markable_30" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_117..word_138" mmax_level="entity" />
+<markable id="markable_31" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_121..word_122" mmax_level="entity" />
+<markable id="markable_32" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_121..word_138" mmax_level="entity" />
+<markable id="markable_34" information_status="new" new_type="noset" mention="yes" span="word_127..word_138" mmax_level="entity" />
+<markable id="markable_35" information_status="new" new_type="noset" mention="yes" span="word_132..word_133" mmax_level="entity" />
+<markable id="markable_36" information_status="new" new_type="noset" mention="yes" span="word_137..word_138" mmax_level="entity" />
+<markable id="markable_37" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_144" mmax_level="entity" />
+<markable id="markable_38" information_status="mediated" mention="yes" mediated_type="aggregate" span="word_147..word_155" mmax_level="entity" />
+<markable id="markable_39" information_status="new" new_type="noset" mention="yes" span="word_147..word_148" mmax_level="entity" />
+<markable id="markable_40" information_status="mediated" additional_bridging_type="nonapp" comparative_type="withintext" mention="yes" comp_from="markable_39" mediated_type="comparative" span="word_150..word_155" mmax_level="entity" />
+<markable id="markable_41" information_status="new" new_type="noset" mention="yes" span="word_155" mmax_level="entity" />
+<markable id="markable_42" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_158..word_163" mmax_level="entity" />
+<markable id="markable_43" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_158..word_159" mmax_level="entity" />
+<markable id="markable_44" information_status="new" new_type="noset" mention="yes" span="word_162..word_163" mmax_level="entity" />
+<markable id="markable_45" other_links="markable_37" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_167..word_169" mmax_level="entity" />
+<markable id="markable_46" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_167..word_168" mmax_level="entity" />
+<markable id="markable_47" information_status="new" new_type="noset" mention="yes" span="word_172..word_176" mmax_level="entity" />
+<markable id="markable_48" information_status="mediated" mention="yes" bridge_type="other" bridged_from="markable_316" second_bridge_type="nonapp" mediated_type="bridging" span="word_178..word_179" mmax_level="entity" />
+<markable id="markable_49" information_status="mediated" mention="yes" mediated_type="aggregate" span="word_183..word_195" mmax_level="entity" />
+<markable id="markable_50" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_183..word_188" mmax_level="entity" />
+<markable id="markable_51" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_187..word_188" mmax_level="entity" />
+<markable id="markable_52" other_links="markable_45" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_190..word_195" mmax_level="entity" />
+<markable id="markable_53" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_194..word_195" mmax_level="entity" />
+<markable id="markable_54" information_status="mediated" additional_bridging_type="nonapp" comparative_type="withintext" mention="yes" comp_from="markable_43" mediated_type="comparative" span="word_198..word_201" mmax_level="entity" />
+<markable id="markable_55" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_199..word_200" mmax_level="entity" />
+<markable id="markable_56" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_203" mmax_level="entity" />
+<markable id="markable_57" information_status="new" new_type="noset" mention="yes" span="word_205..word_215" mmax_level="entity" />
+<markable id="markable_58" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_210..word_211" mmax_level="entity" />
+<markable id="markable_59" information_status="old" old_type="other_coreference" annotator_comments="binding" mention="yes" span="word_210" mmax_level="entity" />
+<markable id="markable_60" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_214..word_215" mmax_level="entity" />
+<markable id="markable_61" information_status="old" old_type="other_coreference" mention="yes" span="word_214" mmax_level="entity" />
+<markable id="markable_62" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_219..word_233" mmax_level="entity" />
+<markable id="markable_63" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_223..word_233" mmax_level="entity" />
+<markable id="markable_64" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_226..word_233" mmax_level="entity" />
+<markable id="markable_65" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_226..word_230" mmax_level="entity" />
+<markable id="markable_68" information_status="new" new_type="noset" mention="yes" span="word_235..word_243" mmax_level="entity" />
+<markable id="markable_69" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_238..word_243" mmax_level="entity" />
+<markable id="markable_70" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_241..word_242" mmax_level="entity" />
+<markable id="markable_71" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_241..word_243" mmax_level="entity" />
+<markable id="markable_72" information_status="new" new_type="noset" mention="yes" span="word_248..word_249" mmax_level="entity" />
+<markable id="markable_73" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_253..word_256" mmax_level="entity" />
+<markable id="markable_74" information_status="mediated" annotator_comments="unclear" mention="yes" bridge_type="set" bridged_from="markable_57" second_bridge_type="nonapp" mediated_type="bridging" span="word_256" mmax_level="entity" />
+<markable id="markable_75" information_status="mediated" annotator_comments="norms for pollution" mention="yes" bridge_type="other" bridged_from="markable_41" second_bridge_type="nonapp" mediated_type="bridging" span="word_258" mmax_level="entity" />
+<markable id="markable_76" information_status="mediated" mention="yes" mediated_type="aggregate" span="word_263..word_279" mmax_level="entity" />
+<markable id="markable_77" information_status="new" new_type="noset" mention="yes" span="word_263..word_269" mmax_level="entity" />
+<markable id="markable_78" information_status="new" new_type="noset" mention="yes" span="word_266..word_269" mmax_level="entity" />
+<markable id="markable_79" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_271..word_279" mmax_level="entity" />
+<markable id="markable_80" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_274..word_279" mmax_level="entity" />
+<markable id="markable_81" information_status="new" new_type="noset" mention="yes" span="word_276..word_279" mmax_level="entity" />
+<markable id="markable_82" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_281..word_287" mmax_level="entity" />
+<markable id="markable_83" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_285..word_287" mmax_level="entity" />
+<markable id="markable_84" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_285..word_286" mmax_level="entity" />
+<markable id="markable_85" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_293..word_298" mmax_level="entity" />
+<markable id="markable_86" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_296" mmax_level="entity" />
+<markable id="markable_87" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_296..word_298" mmax_level="entity" />
+<markable id="markable_88" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_304..word_306" mmax_level="entity" />
+<markable id="markable_89" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_304..word_305" mmax_level="entity" />
+<markable id="markable_90" information_status="mediated" mention="yes" mediated_type="aggregate" span="word_309..word_311" mmax_level="entity" />
+<markable id="markable_91" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_309" mmax_level="entity" />
+<markable id="markable_92" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_311" mmax_level="entity" />
+<markable id="markable_93" information_status="new" new_type="noset" mention="yes" span="word_313..word_318" mmax_level="entity" />
+<markable id="markable_94" information_status="new" new_type="noset" mention="yes" span="word_317..word_318" mmax_level="entity" />
+<markable id="markable_95" information_status="mediated" mention="yes" mediated_type="func" span="word_321..word_322" mmax_level="entity" />
+<markable id="markable_96" information_status="mediated" mention="yes" mediated_type="func" span="word_324..word_329" mmax_level="entity" />
+<markable id="markable_97" information_status="new" new_type="noset" mention="yes" span="word_327..word_329" mmax_level="entity" />
+<markable id="markable_98" information_status="new" new_type="noset" mention="yes" span="word_332..word_337" mmax_level="entity" />
+<markable id="markable_99" information_status="new" new_type="noset" mention="yes" span="word_336..word_337" mmax_level="entity" />
+<markable id="markable_100" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_341" mmax_level="entity" />
+<markable id="markable_101" information_status="mediated" mention="yes" mediated_type="aggregate" span="word_343..word_366" mmax_level="entity" />
+<markable id="markable_102" information_status="mediated" additional_bridging_type="nonapp" comparative_type="withintext" mention="yes" comp_from="markable_106" mediated_type="comparative" span="word_343..word_347" mmax_level="entity" />
+<markable id="markable_103" information_status="mediated" additional_bridging_type="nonapp" comparative_type="withintext" mention="yes" comp_from="markable_106" mediated_type="comparative" span="word_349..word_356" mmax_level="entity" />
+<markable id="markable_104" information_status="new" new_type="noset" mention="yes" span="word_358..word_362" mmax_level="entity" />
+<markable id="markable_105" information_status="new" new_type="noset" mention="yes" span="word_360..word_362" mmax_level="entity" />
+<markable id="markable_106" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_365..word_366" mmax_level="entity" />
+<markable id="markable_107" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_368" mmax_level="entity" />
+<markable id="markable_108" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_368..word_374" mmax_level="entity" />
+<markable id="markable_109" information_status="new" new_type="noset" mention="yes" span="word_372..word_374" mmax_level="entity" />
+<markable id="markable_110" information_status="new" new_type="noset" mention="yes" span="word_374" mmax_level="entity" />
+<markable id="markable_111" information_status="mediated" mention="yes" mediated_type="func" span="word_376..word_378" mmax_level="entity" />
+<markable id="markable_112" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_381..word_383" mmax_level="entity" />
+<markable id="markable_113" information_status="mediated" mention="yes" mediated_type="func" span="word_386..word_387" mmax_level="entity" />
+<markable id="markable_114" information_status="new" new_type="noset" mention="yes" span="word_390..word_391" mmax_level="entity" />
+<markable id="markable_115" information_status="mediated" annotator_comments="the national average of poland" mention="yes" bridge_type="other" bridged_from="markable_107" second_bridge_type="nonapp" mediated_type="bridging" span="word_393..word_395" mmax_level="entity" />
+<markable id="markable_116" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_398" mmax_level="entity" />
+<markable id="markable_117" information_status="new" new_type="noset" mention="yes" span="word_400..word_406" mmax_level="entity" />
+<markable id="markable_118" information_status="new" new_type="noset" mention="yes" span="word_405..word_406" mmax_level="entity" />
+<markable id="markable_119" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_409..word_412" mmax_level="entity" />
+<markable id="markable_120" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_412" mmax_level="entity" />
+<markable id="markable_121" information_status="mediated" mention="yes" bridge_type="other" bridged_from="markable_37" second_bridge_type="nonapp" mediated_type="bridging" span="word_414..word_415" mmax_level="entity" />
+<markable id="markable_122" information_status="old" old_type="other_coreference" annotator_comments="unclear" mention="yes" span="word_417..word_418" mmax_level="entity" />
+<markable id="markable_123" information_status="new" new_type="noset" mention="yes" span="word_423..word_494" mmax_level="entity" />
+<markable id="markable_124" information_status="new" new_type="noset" mention="yes" span="word_423..word_437" mmax_level="entity" />
+<markable id="markable_126" information_status="new" new_type="noset" mention="yes" span="word_429..word_437" mmax_level="entity" />
+<markable id="markable_127" information_status="new" new_type="noset" mention="yes" span="word_437" mmax_level="entity" />
+<markable id="markable_128" information_status="new" new_type="noset" mention="yes" span="word_439..word_461" mmax_level="entity" />
+<markable id="markable_129" information_status="new" new_type="noset" mention="yes" span="word_442..word_444" mmax_level="entity" />
+<markable id="markable_130" information_status="new" new_type="noset" mention="yes" span="word_448" mmax_level="entity" />
+<markable id="markable_131" information_status="new" new_type="noset" mention="yes" span="word_450" mmax_level="entity" />
+<markable id="markable_132" information_status="mediated" annotator_comments="penalties for sth" mention="yes" bridge_type="other" bridged_from="markable_130" second_bridge_type="nonapp" mediated_type="bridging" span="word_456" mmax_level="entity" />
+<markable id="markable_133" information_status="mediated" annotator_comments="the government of planned economies" mention="yes" bridge_type="other" bridged_from="markable_129" second_bridge_type="nonapp" mediated_type="bridging" span="word_460..word_461" mmax_level="entity" />
+<markable id="markable_134" information_status="new" new_type="noset" mention="yes" span="word_464..word_494" mmax_level="entity" />
+<markable id="markable_136" information_status="new" new_type="noset" mention="yes" span="word_472..word_473" mmax_level="entity" />
+<markable id="markable_137" information_status="new" new_type="noset" mention="yes" span="word_475..word_476" mmax_level="entity" />
+<markable id="markable_138" information_status="mediated" additional_bridging_type="nonapp" comparative_type="withintext" mention="yes" comp_from="markable_142" mediated_type="comparative" span="word_479..word_494" mmax_level="entity" />
+<markable id="markable_139" information_status="new" new_type="noset" mention="yes" span="word_487..word_490" mmax_level="entity" />
+<markable id="markable_140" information_status="new" new_type="noset" mention="yes" span="word_487" mmax_level="entity" />
+<markable id="markable_141" information_status="new" new_type="noset" mention="yes" span="word_489..word_490" mmax_level="entity" />
+<markable id="markable_142" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_493..word_494" mmax_level="entity" />
+<markable id="markable_143" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_496" mmax_level="entity" />
+<markable id="markable_144" information_status="new" new_type="noset" mention="yes" span="word_500..word_501" mmax_level="entity" />
+<markable id="markable_145" information_status="new" new_type="noset" mention="yes" span="word_507..word_528" mmax_level="entity" />
+<markable id="markable_146" information_status="new" new_type="noset" mention="yes" span="word_507..word_508" mmax_level="entity" />
+<markable id="markable_147" information_status="new" new_type="noset" mention="yes" span="word_510..word_515" mmax_level="entity" />
+<markable id="markable_148" information_status="new" new_type="noset" mention="yes" span="word_514..word_515" mmax_level="entity" />
+<markable id="markable_149" information_status="new" new_type="noset" mention="yes" span="word_518..word_528" mmax_level="entity" />
+<markable id="markable_150" information_status="new" new_type="noset" mention="yes" span="word_521" mmax_level="entity" />
+<markable id="markable_151" information_status="new" new_type="noset" mention="yes" span="word_523..word_524" mmax_level="entity" />
+<markable id="markable_152" information_status="new" new_type="noset" mention="yes" span="word_526..word_528" mmax_level="entity" />
+<markable id="markable_153" information_status="mediated" mention="yes" bridge_type="other" bridged_from="markable_144" second_bridge_type="nonapp" mediated_type="bridging" span="word_530..word_534" mmax_level="entity" />
+<markable id="markable_154" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_532" mmax_level="entity" />
+<markable id="markable_155" information_status="new" new_type="noset" mention="yes" span="word_536..word_569" mmax_level="entity" />
+<markable id="markable_156" information_status="new" new_type="noset" mention="yes" span="word_536..word_539" mmax_level="entity" />
+<markable id="markable_157" information_status="new" new_type="noset" mention="yes" span="word_541..word_544" mmax_level="entity" />
+<markable id="markable_158" information_status="new" new_type="noset" mention="yes" span="word_546..word_547" mmax_level="entity" />
+<markable id="markable_159" information_status="new" new_type="noset" mention="yes" span="word_549..word_551" mmax_level="entity" />
+<markable id="markable_160" information_status="new" new_type="noset" mention="yes" span="word_553..word_561" mmax_level="entity" />
+<markable id="markable_161" information_status="new" new_type="noset" mention="yes" span="word_558..word_561" mmax_level="entity" />
+<markable id="markable_162" information_status="new" new_type="noset" mention="yes" span="word_564..word_569" mmax_level="entity" />
+<markable id="markable_164" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_572" mmax_level="entity" />
+<markable id="markable_165" other_links="markable_144" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_572..word_575" mmax_level="entity" />
+<markable id="markable_166" information_status="new" new_type="noset" mention="yes" span="word_579" mmax_level="entity" />
+<markable id="markable_167" information_status="new" new_type="noset" mention="yes" span="word_581..word_582" mmax_level="entity" />
+<markable id="markable_168" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_585" mmax_level="entity" />
+<markable id="markable_169" information_status="new" new_type="noset" mention="yes" span="word_589..word_590" mmax_level="entity" />
+<markable id="markable_170" information_status="new" new_type="noset" mention="yes" span="word_592..word_593" mmax_level="entity" />
+<markable id="markable_171" information_status="new" new_type="noset" mention="yes" span="word_595..word_598" mmax_level="entity" />
+<markable id="markable_172" information_status="new" new_type="noset" mention="yes" span="word_597..word_598" mmax_level="entity" />
+<markable id="markable_173" information_status="new" new_type="noset" mention="yes" span="word_602" mmax_level="entity" />
+<markable id="markable_174" information_status="new" new_type="noset" mention="yes" span="word_607..word_624" mmax_level="entity" />
+<markable id="markable_175" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_611..word_614" mmax_level="entity" />
+<markable id="markable_176" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_613..word_614" mmax_level="entity" />
+<markable id="markable_177" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_617..word_618" mmax_level="entity" />
+<markable id="markable_178" information_status="new" new_type="noset" mention="yes" span="word_623..word_624" mmax_level="entity" />
+<markable id="markable_179" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_626..word_627" mmax_level="entity" />
+<markable id="markable_180" information_status="new" new_type="noset" mention="yes" span="word_630" mmax_level="entity" />
+<markable id="markable_181" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_632..word_633" mmax_level="entity" />
+<markable id="markable_182" information_status="new" new_type="noset" mention="yes" span="word_636" mmax_level="entity" />
+<markable id="markable_183" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_639..word_640" mmax_level="entity" />
+<markable id="markable_184" information_status="new" new_type="noset" mention="yes" span="word_644" mmax_level="entity" />
+<markable id="markable_185" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_648..word_656" mmax_level="entity" />
+<markable id="markable_186" information_status="mediated" additional_bridging_type="nonapp" comparative_type="withintext" mention="yes" comp_from="markable_165" mediated_type="comparative" span="word_651..word_656" mmax_level="entity" />
+<markable id="markable_187" information_status="new" new_type="noset" mention="yes" span="word_655..word_656" mmax_level="entity" />
+<markable id="markable_188" information_status="new" new_type="noset" mention="yes" span="word_660..word_690" mmax_level="entity" />
+<markable id="markable_189" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_663" mmax_level="entity" />
+<markable id="markable_190" information_status="new" new_type="noset" mention="yes" span="word_668..word_674" mmax_level="entity" />
+<markable id="markable_191" information_status="new" new_type="noset" mention="yes" span="word_673..word_674" mmax_level="entity" />
+<markable id="markable_192" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_678..word_679" mmax_level="entity" />
+<markable id="markable_193" information_status="new" new_type="noset" mention="yes" span="word_683..word_685" mmax_level="entity" />
+<markable id="markable_194" information_status="mediated" annotator_comments="republics of soviets" mention="yes" bridge_type="part_attrib_of" bridged_from="markable_192" second_bridge_type="nonapp" mediated_type="bridging" span="word_687..word_688" mmax_level="entity" />
+<markable id="markable_195" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_689..word_690" mmax_level="entity" />
+<markable id="markable_196" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_692..word_693" mmax_level="entity" />
+<markable id="markable_197" information_status="new" new_type="noset" mention="yes" span="word_697" mmax_level="entity" />
+<markable id="markable_198" information_status="new" new_type="noset" mention="yes" span="word_701..word_709" mmax_level="entity" />
+<markable id="markable_199" information_status="new" new_type="noset" mention="yes" span="word_701..word_706" mmax_level="entity" />
+<markable id="markable_200" information_status="new" new_type="noset" mention="yes" span="word_702..word_704" mmax_level="entity" />
+<markable id="markable_201" information_status="new" new_type="noset" mention="yes" span="word_708..word_709" mmax_level="entity" />
+<markable id="markable_202" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_711" mmax_level="entity" />
+<markable id="markable_203" information_status="new" new_type="noset" mention="yes" span="word_714" mmax_level="entity" />
+<markable id="markable_204" information_status="mediated" mention="yes" bridge_type="other" bridged_from="markable_203" second_bridge_type="nonapp" mediated_type="bridging" span="word_717" mmax_level="entity" />
+<markable id="markable_205" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_720..word_721" mmax_level="entity" />
+<markable id="markable_206" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_720" mmax_level="entity" />
+<markable id="markable_207" information_status="new" new_type="noset" mention="yes" span="word_725..word_726" mmax_level="entity" />
+<markable id="markable_208" information_status="new" new_type="noset" mention="yes" span="word_728..word_732" mmax_level="entity" />
+<markable id="markable_209" information_status="new" new_type="noset" mention="yes" span="word_735..word_742" mmax_level="entity" />
+<markable id="markable_210" information_status="new" new_type="noset" mention="yes" span="word_741..word_742" mmax_level="entity" />
+<markable id="markable_211" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_745" mmax_level="entity" />
+<markable id="markable_212" information_status="new" new_type="noset" mention="yes" span="word_750" mmax_level="entity" />
+<markable id="markable_213" information_status="new" new_type="noset" mention="yes" span="word_754..word_755" mmax_level="entity" />
+<markable id="markable_214" information_status="new" new_type="noset" mention="yes" span="word_759..word_760" mmax_level="entity" />
+<markable id="markable_215" information_status="new" new_type="noset" mention="yes" span="word_763" mmax_level="entity" />
+<markable id="markable_216" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_764..word_767" mmax_level="entity" />
+<markable id="markable_217" information_status="mediated" annotator_comments="solutions for market based pollution control" mention="yes" bridge_type="other" bridged_from="markable_144" second_bridge_type="nonapp" mediated_type="bridging" span="word_767" mmax_level="entity" />
+<markable id="markable_218" information_status="new" new_type="noset" mention="yes" span="word_772" mmax_level="entity" />
+<markable id="markable_219" information_status="new" new_type="noset" mention="yes" span="word_777..word_781" mmax_level="entity" />
+<markable id="markable_220" information_status="new" new_type="noset" mention="yes" span="word_780..word_781" mmax_level="entity" />
+<markable id="markable_221" information_status="mediated" mention="yes" bridge_type="other" bridged_from="markable_169" second_bridge_type="nonapp" mediated_type="bridging" span="word_783..word_788" mmax_level="entity" />
+<markable id="markable_222" information_status="mediated" annotator_comments="needs to be linked to the conference" mention="yes" bridge_type="other" bridged_from="markable_176" second_bridge_type="nonapp" mediated_type="bridging" span="word_790" mmax_level="entity" />
+<markable id="markable_223" information_status="new" new_type="noset" mention="yes" span="word_793..word_794" mmax_level="entity" />
+<markable id="markable_225" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_796..word_799" mmax_level="entity" />
+<markable id="markable_226" information_status="mediated" annotator_comments="control of pollution" mention="yes" bridge_type="other" bridged_from="markable_130" second_bridge_type="nonapp" mediated_type="bridging" span="word_799" mmax_level="entity" />
+<markable id="markable_227" information_status="new" new_type="noset" mention="yes" span="word_804..word_812" mmax_level="entity" />
+<markable id="markable_228" information_status="new" new_type="noset" mention="yes" span="word_808..word_812" mmax_level="entity" />
+<markable id="markable_229" information_status="new" new_type="noset" mention="yes" span="word_811..word_812" mmax_level="entity" />
+<markable id="markable_230" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_814" mmax_level="entity" />
+<markable id="markable_231" information_status="new" new_type="noset" mention="yes" span="word_816..word_835" mmax_level="entity" />
+<markable id="markable_232" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_822..word_827" mmax_level="entity" />
+<markable id="markable_233" information_status="mediated" annotator_comments="reduction of pollution" mention="yes" bridge_type="other" bridged_from="markable_130" second_bridge_type="nonapp" mediated_type="bridging" span="word_827" mmax_level="entity" />
+<markable id="markable_234" information_status="mediated" additional_bridging_type="nonapp" comparative_type="withintext" mention="yes" comp_from="markable_232" mediated_type="comparative" span="word_830..word_835" mmax_level="entity" />
+<markable id="markable_235" information_status="new" new_type="noset" mention="yes" span="word_835" mmax_level="entity" />
+<markable id="markable_236" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_837" mmax_level="entity" />
+<markable id="markable_238" information_status="new" new_type="noset" mention="yes" span="word_840..word_861" mmax_level="entity" />
+<markable id="markable_239" information_status="new" new_type="noset" mention="yes" span="word_842..word_861" mmax_level="entity" />
+<markable id="markable_240" information_status="new" new_type="noset" mention="yes" span="word_849..word_850" mmax_level="entity" />
+<markable id="markable_241" information_status="mediated" mention="yes" bridge_type="other" bridged_from="markable_130" second_bridge_type="nonapp" mediated_type="bridging" span="word_854..word_861" mmax_level="entity" />
+<markable id="markable_242" information_status="new" new_type="noset" mention="yes" span="word_860..word_861" mmax_level="entity" />
+<markable id="markable_243" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_863" mmax_level="entity" />
+<markable id="markable_244" information_status="new" new_type="noset" mention="yes" span="word_866..word_869" mmax_level="entity" />
+<markable id="markable_245" information_status="new" new_type="noset" mention="yes" span="word_875" mmax_level="entity" />
+<markable id="markable_246" information_status="new" new_type="noset" mention="yes" span="word_878..word_879" mmax_level="entity" />
+<markable id="markable_247" information_status="new" new_type="noset" mention="yes" span="word_881..word_884" mmax_level="entity" />
+<markable id="markable_248" information_status="new" new_type="noset" mention="yes" span="word_885..word_890" mmax_level="entity" />
+<markable id="markable_249" information_status="new" new_type="noset" mention="yes" span="word_893..word_895" mmax_level="entity" />
+<markable id="markable_250" information_status="new" new_type="noset" annotator_comments="c" mention="yes" span="word_895" mmax_level="entity" />
+<markable id="markable_251" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_897..word_900" mmax_level="entity" />
+<markable id="markable_252" information_status="mediated" mention="yes" bridge_type="other" bridged_from="markable_248" second_bridge_type="nonapp" mediated_type="bridging" span="word_900" mmax_level="entity" />
+<markable id="markable_253" information_status="new" new_type="noset" mention="yes" span="word_903" mmax_level="entity" />
+<markable id="markable_254" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_907..word_908" mmax_level="entity" />
+<markable id="markable_255" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_907..word_912" mmax_level="entity" />
+<markable id="markable_256" information_status="new" new_type="noset" mention="yes" span="word_914..word_916" mmax_level="entity" />
+<markable id="markable_257" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_917..word_920" mmax_level="entity" />
+<markable id="markable_258" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_917..word_918" mmax_level="entity" />
+<markable id="markable_259" information_status="new" new_type="noset" mention="yes" span="word_924..word_925" mmax_level="entity" />
+<markable id="markable_260" information_status="mediated" mention="yes" bridge_type="other" bridged_from="markable_130" second_bridge_type="nonapp" mediated_type="bridging" span="word_928..word_929" mmax_level="entity" />
+<markable id="markable_261" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_935" mmax_level="entity" />
+<markable id="markable_262" information_status="unknown" mention="no" span="word_937" mmax_level="entity" />
+<markable id="markable_263" information_status="new" new_type="noset" mention="yes" span="word_939..word_940" mmax_level="entity" />
+<markable id="markable_264" information_status="mediated" annotator_comments="participants in the conference" mention="yes" bridge_type="other" bridged_from="markable_176" second_bridge_type="nonapp" mediated_type="bridging" span="word_942" mmax_level="entity" />
+<markable id="markable_265" information_status="new" new_type="noset" mention="yes" span="word_944..word_948" mmax_level="entity" />
+<markable id="markable_266" information_status="new" new_type="noset" mention="yes" span="word_948" mmax_level="entity" />
+<markable id="markable_267" information_status="new" new_type="noset" mention="yes" span="word_952" mmax_level="entity" />
+<markable id="markable_268" information_status="new" new_type="noset" mention="yes" span="word_955..word_956" mmax_level="entity" />
+<markable id="markable_269" information_status="new" new_type="noset" mention="yes" span="word_959" mmax_level="entity" />
+<markable id="markable_270" information_status="new" new_type="noset" mention="yes" span="word_965..word_968" mmax_level="entity" />
+<markable id="markable_271" information_status="mediated" annotator_comments="one participant at the conference" mention="yes" bridge_type="other" bridged_from="markable_176" second_bridge_type="nonapp" mediated_type="bridging" span="word_969..word_970" mmax_level="entity" />
+<markable id="markable_272" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_974" mmax_level="entity" />
+<markable id="markable_273" information_status="new" new_type="noset" mention="yes" span="word_977..word_988" mmax_level="entity" />
+<markable id="markable_274" information_status="new" new_type="noset" mention="yes" span="word_977..word_981" mmax_level="entity" />
+<markable id="markable_275" information_status="new" new_type="noset" mention="yes" span="word_981" mmax_level="entity" />
+<markable id="markable_276" information_status="new" new_type="noset" mention="yes" span="word_983..word_988" mmax_level="entity" />
+<markable id="markable_277" information_status="new" new_type="noset" mention="yes" span="word_987..word_988" mmax_level="entity" />
+<markable id="markable_278" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_991" mmax_level="entity" />
+<markable id="markable_279" information_status="mediated" additional_bridging_type="nonapp" comparative_type="withintext" mention="yes" comp_from="markable_273" mediated_type="comparative" span="word_993..word_994" mmax_level="entity" />
+<markable id="markable_280" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_996" mmax_level="entity" />
+<markable id="markable_281" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_996..word_1026" mmax_level="entity" />
+<markable id="markable_282" information_status="unknown" mention="no" span="word_999" mmax_level="entity" />
+<markable id="markable_283" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_1005..word_1006" mmax_level="entity" />
+<markable id="markable_284" information_status="mediated" mention="yes" bridge_type="other" bridged_from="markable_277" second_bridge_type="nonapp" mediated_type="bridging" span="word_1010..word_1015" mmax_level="entity" />
+<markable id="markable_285" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_1017..word_1020" mmax_level="entity" />
+<markable id="markable_286" information_status="mediated" additional_bridging_type="nonapp" comparative_type="withintext" mention="yes" comp_from="markable_284" mediated_type="comparative" span="word_1023..word_1025" mmax_level="entity" />
+<markable id="markable_287" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_1028..word_1029" mmax_level="entity" />
+<markable id="markable_288" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_1031" mmax_level="entity" />
+<markable id="markable_289" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_1033..word_1036" mmax_level="entity" />
+<markable id="markable_290" information_status="new" new_type="noset" mention="yes" span="word_1039..word_1042" mmax_level="entity" />
+<markable id="markable_291" information_status="new" new_type="noset" mention="yes" span="word_1045..word_1046" mmax_level="entity" />
+<markable id="markable_292" information_status="new" new_type="noset" mention="yes" span="word_1045..word_1055" mmax_level="entity" />
+<markable id="markable_293" information_status="new" new_type="noset" mention="yes" span="word_1048..word_1050" mmax_level="entity" />
+<markable id="markable_294" information_status="new" new_type="noset" mention="yes" span="word_1053..word_1055" mmax_level="entity" />
+<markable id="markable_295" information_status="new" new_type="noset" mention="yes" span="word_1058..word_1065" mmax_level="entity" />
+<markable id="markable_296" information_status="new" new_type="noset" mention="yes" span="word_1062..word_1065" mmax_level="entity" />
+<markable id="markable_297" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_1067..word_1070" mmax_level="entity" />
+<markable id="markable_298" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_1067..word_1069" mmax_level="entity" />
+<markable id="markable_299" information_status="new" new_type="noset" mention="yes" span="word_1073..word_1074" mmax_level="entity" />
+<markable id="markable_300" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_1076..word_1087" mmax_level="entity" />
+<markable id="markable_302" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_1079..word_1086" mmax_level="entity" />
+<markable id="markable_303" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_1082..word_1086" mmax_level="entity" />
+<markable id="markable_304" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_1082..word_1083" mmax_level="entity" />
+<markable id="markable_305" information_status="old" old_type="other_coreference" annotator_comments="refers to the whole article" mention="yes" span="word_1089" mmax_level="entity" />
+<markable id="markable_306" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_1091" mmax_level="entity" />
+<markable id="markable_307" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_1091..word_1103" mmax_level="entity" />
+<markable id="markable_308" information_status="new" new_type="noset" mention="yes" span="word_1095..word_1103" mmax_level="entity" />
+<markable id="markable_312" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_1033..word_1035" mmax_level="entity" />
+<markable id="markable_313" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_1092" mmax_level="entity" />
+<markable id="markable_316" information_status="unknown" mention="no" span="word_165..word_176" mmax_level="entity" />
+<markable id="markable_318" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_95" mmax_level="entity" />
+<markable id="markable_319" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_97" mmax_level="entity" />
+<markable id="markable_320" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_99" mmax_level="entity" />
+<markable id="markable_321" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_101" mmax_level="entity" />
+<markable id="markable_322" information_status="mediated" mention="yes" mediated_type="world_knowledge_or_text" span="word_103" mmax_level="entity" />
+</markables>

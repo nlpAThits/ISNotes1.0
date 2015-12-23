@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<annotationscheme>
+	<attribute id="mention" name="mention" text=""  type="nominal_button">
+          <value id="value_1" name="Yes"/>
+          <value id="value_2" name="No"/>
+	</attribute>
+
+    
+	<attribute id="info_status" name="information_status" text=""  type="nominal_button">
+          <value id="value_3" name="unknown"/>
+	  <value id="value_4" name="old" next="old_type"/>
+	  <value id="value_5" name="new" next="new_type"/>
+	  <value id="value_6" name="mediated" next="mediated_type"/>
+	</attribute>
+
+
+	<attribute id="new_type" name="new_type" text="" type="nominal_button">
+          <value id="value_7" name="noset"/>
+          <value id="value_8" name="set"/>
+        </attribute>
+	
+	
+	<attribute id="old_type" name="old_type" text="" type="nominal_button">
+          <value id="value_9" name="unknown"/>
+          <value id="value_10" name="coreference"/>
+          <value id="value_11" name="general_or_generic"/>
+	  <value id="value_12" name="relative"/>
+	  <value id="value_13" name="other_coreference"/>
+	</attribute>
+        
+	<attribute id="mediated_type" name="mediated_type" text="" type="nominal_button">
+          <value id="value_14" name="unknown"/>
+          <value id="value_15" name="comparative" next="comparative_type"/>
+	  <value id="value_16" name="syntactic" next="other_links"/>
+	  <value id="value_17" name="aggregate"/>
+	  <value id="value_18" name="func"/>
+          <value id="value_19" name="bridging" next="bridge_type"/>
+	  <value id="value_20" name="world_knowledge_or_text"/>
+	  </attribute>
+
+
+	
+	<attribute id="bridge_type" name="bridge_type" text=""  type="nominal_button">
+          <value id="value_21" name="unknown"/>
+	  <value id="value_22" name="set" next="bridged_from"/>
+	  <value id="value_23" name="event" next="bridged_from"/>
+	  <value id="value_24" name="part_attrib_of" next="bridged_from"/>
+	  <value id="value_25" name="other" next="bridged_from"/>
+	</attribute>
+	
+	<attribute id="second_bridge_type" name="second_bridge_type" text=""  type="nominal_button">
+          <value id="value_26" name="nonapp"/>
+	  <value id="value_27" name="set" next="second_bridged_from"/>
+	  <value id="value_28" name="event" next="second_bridged_from"/>
+	  <value id="value_29" name="part_attrib_of" next="second_bridged_from"/>
+	  <value id="value_30" name="other" next="second_bridged_from"/>
+	</attribute>
+	
+	<attribute id="third_bridge_type" name="third_bridge_type" text=""  type="nominal_button">
+          <value id="value_31" name="nonapp"/>
+	  <value id="value_32" name="set" next="third_bridged_from"/>
+	  <value id="value_33" name="event" next="third_bridged_from"/>
+	  <value id="value_34" name="part_attrib_of" next="third_bridged_from"/>
+	  <value id="value_35" name="other" next="third_bridged_from"/>
+	</attribute>
+
+	<attribute id="bridged_from" name="bridged_from" text="" type="markable_pointer" color="blue" width="1" style="rcurve" max_size="1" point_to_markable_text="Mark as bridging antecedent" remove_pointer_to_markable_text="Unmark as bridging antecedent" satellite_domain="entity">
+	  <value id="value_36" name="unknown"/>
+	  <value id="value_37" name="antecedent" next="second_bridge_type"/>
+	</attribute>
+	
+
+	<attribute id="second_bridged_from" name="second_bridged_from" text="" type="markable_pointer" color="blue" width="1" style="rcurve" max_size="1" point_to_markable_text="Mark as second bridging antecedent" remove_pointer_to_markable_text="Unmark as second bridging antecedent" satellite_domain="entity">
+	  <value id="value_38" name="unknown"/> 
+	  <value id="value_39" name="antecedent2" next="third_bridge_type"/>
+	</attribute> 
+	
+	
+	<attribute id="third_bridged_from" name="third_bridged_from" text="" type="markable_pointer" color="blue" width="1" style="rcurve" max_size="1" point_to_markable_text="Mark as third bridging antecedent" remove_pointer_to_markable_text="Unmark as third bridging antecedent" satellite_domain="entity">
+	  <value id="value_40" name="unknown"/> 
+	</attribute> 
+
+	<attribute id="other_links" name="other_links" text="" type="markable_pointer" color="red" width="1" style="rcurve" max_size="10" point_to_markable_text="Mark as other links" remove_pointer_to_markable_text="Unmark as other links" satellite_domain="entity">
+          <value id="value_41" name="unknown"/>
+        </attribute>
+
+	
+	<attribute id="comparative_type" name="comparative_type" text=""  type="nominal_button">
+	  <value id="value_42" name="unknown"/>
+	  <value id="value_43" name="withintext" next="comp_from"/>
+	  <value id="value_44" name="outsidetext" next="additional_bridging_type"/>
+	</attribute>
+	
+	<attribute id="additional_bridging_type" name="additional_bridging_type" text=""  type="nominal_button">
+	  <value id="value_45" name="nonapp"/>
+	  <value id="value_46" name="also_bridging" next="additional_bridging_link"/>
+	</attribute>
+
+	<attribute id="comp_from" name="comp_from" text="" type="markable_pointer" color="yellow" width="1" style="rcurve" max_size="10" point_to_markable_text="Mark as comparative link" remove_pointer_to_markable_text="Unmark as comparative links" satellite_domain="entity">
+	   <value id="value_47" name="unknown"/>
+	  <value id="value_48" name="comparative_antecedent" next="additional_bridging_type"/>
+	</attribute>
+	
+	<attribute id="additional_bridging_link" name="additional_bridging_link" text="" type="markable_pointer" color="red" width="1" style="rcurve" max_size="10" point_to_markable_text="Mark as additional bridge link" remove_pointer_to_markable_text="Unmark as additional bridge link" satellite_domain="entity">
+          <value id="value_49" name="unknown"/>
+        </attribute>
+
+
+	<attribute id="annotator_comments" type="freetext" name="annotator_comments">
+	  <value id="annotator_comments" name="annotator_comments"/>
+	</attribute>
+    
+	<attribute id="generation_comments" type="freetext" name="generation_comments">
+	  <value id="generation_comments" name="generation_comments"/>
+	</attribute>
+
+
+</annotationscheme>

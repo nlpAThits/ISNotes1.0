@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.comp.leeds.ac.uk/markert/entity">
+<markable id="markable_0" information_status="new" new_type="noset" mention="yes" span="word_1..word_3" mmax_level="entity" />
+<markable id="markable_1" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_6..word_17" mmax_level="entity" />
+<markable id="markable_2" information_status="new" new_type="noset" mention="yes" span="word_11..word_12" mmax_level="entity" />
+<markable id="markable_3" information_status="new" new_type="noset" annotator_comments="unsure whether syntactically given or bridging" mention="yes" span="word_14..word_17" mmax_level="entity" />
+<markable id="markable_4" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_19" mmax_level="entity" />
+<markable id="markable_5" other_links="empty" information_status="mediated" annotator_comments="unclear" mention="yes" mediated_type="syntactic" span="word_22..word_26" mmax_level="entity" />
+<markable id="markable_7" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_25..word_26" mmax_level="entity" />
+<markable id="markable_8" information_status="new" new_type="noset" mention="yes" span="word_28..word_30" mmax_level="entity" />
+<markable id="markable_9" information_status="mediated" annotator_comments="senior vice president of this insurer" mention="yes" bridge_type="other" bridged_from="markable_2" second_bridge_type="nonapp" mediated_type="bridging" span="word_33..word_35" mmax_level="entity" />
+<markable id="markable_10" information_status="mediated" annotator_comments="the department in this insurer" mention="yes" bridge_type="part_attrib_of" bridged_from="markable_2" second_bridge_type="nonapp" mediated_type="bridging" span="word_40..word_44" mmax_level="entity" />
+<markable id="markable_11" information_status="new" new_type="noset" mention="yes" span="word_46..word_48" mmax_level="entity" />
+<markable id="markable_12" other_links="markable_2" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_51..word_60" mmax_level="entity" />
+<markable id="markable_13" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_55..word_60" mmax_level="entity" />
+<markable id="markable_14" information_status="mediated" mention="yes" bridge_type="part_attrib_of" bridged_from="markable_2" second_bridge_type="nonapp" mediated_type="bridging" span="word_57..word_60" mmax_level="entity" />
+<markable id="markable_15" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_62" mmax_level="entity" />
+<markable id="markable_16" other_links="empty" information_status="mediated" mention="yes" mediated_type="syntactic" span="word_65..word_78" mmax_level="entity" />
+<markable id="markable_17" information_status="old" old_type="coreference" mention="yes" generation_comments="automatically marked old and coreferent." span="word_68..word_78" mmax_level="entity" />
+<markable id="markable_18" information_status="new" new_type="noset" mention="yes" span="word_75..word_78" mmax_level="entity" />
+</markables>
